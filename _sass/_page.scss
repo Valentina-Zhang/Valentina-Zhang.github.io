@@ -34,25 +34,10 @@
   }
 }
 
-// .page__title {
-//   margin-top: 0;
-//   line-height: 1;
-
 .page__title {
   margin-top: 0;
   line-height: 1;
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
 
-  @include breakpoint($large) {
-    width: 60%; /* Adjust width for larger screens */
-  }
-
-  @include breakpoint($x-large) {
-    width: 50%; /* Adjust width for extra-large screens */
-  }
-  
   & + .page__meta {
     margin-top: -0.5em;
   }
