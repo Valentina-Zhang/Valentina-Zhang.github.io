@@ -32,10 +32,10 @@ My current research interests lies in Image-based 3D Reconstruction, 3DV for Rob
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/gaussianroom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
@@ -59,7 +59,7 @@ My current research interests lies in Image-based 3D Reconstruction, 3DV for Rob
 - *2021.07*, National Advanced Mapping and Product Information Modeling Innovation Competition, First Prize.
 
 
-# 🎖 Honors
+# 🌟 Honors
 - Outstanding Graduate Student, WHU, *2023*.
 - The First Prize Scholarship, WHU, *2022*.
 - Yu Gang and Song Xiao Special Scholarship (Top 1), WHU, *2020*.
@@ -70,9 +70,7 @@ My current research interests lies in Image-based 3D Reconstruction, 3DV for Rob
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University.
 
 # 🎨 Other
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
-
+- 
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
