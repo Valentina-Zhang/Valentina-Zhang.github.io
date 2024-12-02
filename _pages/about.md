@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction**
 
-Haodong Xiang†, Xinghui Li†, Kai Cheng†, Xiansong Lai, **Wanting Zhang**, Zhichao Liao, Long Zeng*, Xueping Liu*
+Haodong Xiang\*, Xinghui Li\*, Kai Cheng\*, Xiansong Lai, **Wanting Zhang**, Zhichao Liao, Long Zeng<sup>†</sup>, Xueping Liu<sup>†</sup>
 
 [[**Project**]](https://xhd0612.github.io/GaussianRoom.github.io/) &nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2405.19671) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -54,7 +54,7 @@ Haodong Xiang†, Xinghui Li†, Kai Cheng†, Xiansong Lai, **Wanting Zhang**, 
 
 **Fine-detailed Neural Indoor Scene Reconstruction Using Multi-level Importance Sampling and Multi-view Consistency**
 
-Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng*
+Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 
 [[**Paper**]](https://arxiv.org/pdf/2410.07597)
 
@@ -67,7 +67,7 @@ Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng*
 
 **Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding**
 
-Yifan Tang†, Cong Tai†, Fangxing Chen†, **Wanting Zhang**, Tao Zhang, Xueping Liu, Yongjin Liu, Long Zeng
+Yifan Tang\*, Cong Tai\*, Fangxing Chen\*, **Wanting Zhang**, Tao Zhang, Xueping Liu, Yongjin Liu, Long Zeng<sup>†</sup>
 
 [[**Project**]](https://jackyzengl.github.io/THUD-Robotic-Dataset.github.io/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2406.19791) 
