@@ -94,7 +94,7 @@ Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 - *2023.06 - present*, Master, Tsinghua University.
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University.
 
-# 🎨 Other
+# 🎨 Others
 - 
 
 <!-- # 💻 Internships

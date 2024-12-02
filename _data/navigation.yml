@@ -18,8 +18,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Other"
-    url: "/#-other"
+  - title: "Others"
+    url: "/#-others"
 
   # - title: "Internships"
   #   url: "/#-internships"
