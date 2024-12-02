@@ -23,12 +23,7 @@ I obtained my Bachelor of Engineering degree from the School of Power and Mechan
 
 My current research interests lies in Image-based 3D Reconstruction, 3DV for Robotics.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -41,27 +36,14 @@ My research interest includes neural machine translation and computer vision. I 
 Haodong Xiang\*, Xinghui Li\*, Kai Cheng\*, Xiansong Lai, **Wanting Zhang**, Zhichao Liao, Long Zeng<sup>†</sup>, Xueping Liu<sup>†</sup>
 
 [[**Project**]](https://xhd0612.github.io/GaussianRoom.github.io/) &nbsp;
-[[**Paper**]](https://arxiv.org/pdf/2405.19671) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-
-</div>
-</div>
-
-
-<!-- FD-NeuS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/fdneus.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Fine-detailed Neural Indoor Scene Reconstruction Using Multi-level Importance Sampling and Multi-view Consistency**
-
-Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
-
-[[**Paper**]](https://arxiv.org/pdf/2410.07597)
+[[**Paper**]](https://arxiv.org/pdf/2405.19671) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 </div>
 </div>
 
-<!-- GaussianRoom -->
+
+<!-- THUD -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/thud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -75,6 +57,18 @@ Yifan Tang\*, Cong Tai\*, Fangxing Chen\*, **Wanting Zhang**, Tao Zhang, Xueping
 </div>
 </div>
 
+<!-- FD-NeuS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/fdneus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fine-detailed Neural Indoor Scene Reconstruction Using Multi-level Importance Sampling and Multi-view Consistency**
+
+Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
+
+[[**Paper**]](https://arxiv.org/pdf/2410.07597)
+
+</div>
+</div>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 <!-- \| [\[video\]](https://github.com/) -->
