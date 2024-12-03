@@ -78,7 +78,7 @@ Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 
 # 🏆 Awards
 - *2023.12*, Huawei Cup Graduate Mathematical Modeling Competition, First Prize.
-- *2022.07*, ROBOCON, First Prize. [\[video\]](https://www.bilibili.com/video/BV18d4y1U7HP)
+- *2022.07*, ROBOCON, First Prize. \| [\[video\]](https://www.bilibili.com/video/BV18d4y1U7HP)
 - *2022.02*, Interdisciplinary Contest in Modeling, Meritorious Winner.
 - *2021.09*, ABU ROBOCON, ABU Robocon Award. 
 - *2021.07*, National Advanced Mapping and Product Information Modeling Innovation Competition, First Prize.
