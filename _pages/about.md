@@ -27,6 +27,23 @@ My current research interests lies in Image-based 3D Reconstruction, 3DV for Rob
 
 # 📝 Publications 
 
+<!-- 2DGS-Room -->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2dgsroom.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2DGS-Room: Seed-Guided 2D Gaussian Splatting with Geometric Constrains for High-Fidelity Indoor Scene Reconstruction**
+
+**Wanting Zhang**, Haodong Xiang, Zhichao Liao, Xiansong Lai, Xinghui Li<sup>†</sup>, Long Zeng<sup>†</sup>
+
+[[**Project**]](https://valentina-zhang.github.io/2DGS-Room/)
+ <!-- &nbsp; [[**Paper**]](https://arxiv.org/pdf/2405.19671)  -->
+
+</div>
+</div>
+
+
+
 <!-- GaussianRoom -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gaussianroom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
