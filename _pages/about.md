@@ -67,7 +67,8 @@ Haodong Xiang\*, Xinghui Li\*, Kai Cheng\*, Xiansong Lai, **Wanting Zhang**, Zhi
 Yifan Tang\*, Cong Tai\*, Fangxing Chen\*, **Wanting Zhang**, Tao Zhang, Xueping Liu, Yongjin Liu, Long Zeng<sup>†</sup>
 
 [[**Project**]](https://jackyzengl.github.io/THUD-Robotic-Dataset.github.io/)&nbsp;
-[[**Paper**]](https://arxiv.org/pdf/2406.19791) 
+[[**Paper**]](https://arxiv.org/pdf/2406.19791)&nbsp;
+[[**Poster**]](../images/ICRA24%20Poster.pdf)
 
 </div>
 </div>
