@@ -111,8 +111,10 @@ Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 - *2023.06 - present*, Master, Tsinghua University.
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University.
 
+
+# 💻 Internships
+- *2023.03 - 2023.06*, [Yahboom](https://www.yahboom.com/home.xml), China.
+
+
 # 🎨 Others
 - 
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
