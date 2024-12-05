@@ -68,7 +68,7 @@ Yifan Tang\*, Cong Tai\*, Fangxing Chen\*, **Wanting Zhang**, Tao Zhang, Xueping
 
 [[**Project**]](https://jackyzengl.github.io/THUD-Robotic-Dataset.github.io/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2406.19791)&nbsp;
-[[**Poster**]](../images/ICRA24%20Poster.pdf)
+[[**Poster**]](../images/ICRA24_Poster.pdf)
 
 </div>
 </div>
