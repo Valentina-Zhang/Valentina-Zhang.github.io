@@ -36,8 +36,8 @@ My current research interests lies in Image-based 3D Reconstruction, 3DV for Rob
 
 **Wanting Zhang**, Haodong Xiang, Zhichao Liao, Xiansong Lai, Xinghui Li<sup>†</sup>, Long Zeng<sup>†</sup>
 
-[[**Project**]](https://valentina-zhang.github.io/2DGS-Room/)
- <!-- &nbsp; [[**Paper**]](https://arxiv.org/pdf/2405.19671)  -->
+[[**Project**]](https://valentina-zhang.github.io/2DGS-Room/)&nbsp; 
+[[**Paper**]](https://arxiv.org/pdf/2412.03428) 
 
 </div>
 </div>
