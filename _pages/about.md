@@ -81,7 +81,8 @@ Yifan Tang\*, Cong Tai\*, Fangxing Chen\*, **Wanting Zhang**, Tao Zhang, Xueping
 
 Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 
-[[**Paper**]](https://arxiv.org/pdf/2410.07597)
+[[**Paper**]](https://arxiv.org/pdf/2410.07597)&nbsp;
+[[**Poster**]](../images/ICIP24_Poster.pdf)
 
 </div>
 </div>
