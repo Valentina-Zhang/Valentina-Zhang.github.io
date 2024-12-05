@@ -42,8 +42,6 @@ My current research interests lies in Image-based 3D Reconstruction, 3DV for Rob
 </div>
 </div>
 
-
-
 <!-- GaussianRoom -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gaussianroom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,7 +93,7 @@ Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 
 # 🏆 Awards
 - *2023.12*, Huawei Cup Graduate Mathematical Modeling Competition, First Prize.
-- *2022.07*, ROBOCON, First Prize. \| [\[video\]](https://www.bilibili.com/video/BV18d4y1U7HP)
+- *2022.07*, ROBOCON, First Prize.  [\[video\]](https://www.bilibili.com/video/BV18d4y1U7HP)
 - *2022.02*, Interdisciplinary Contest in Modeling, Meritorious Winner.
 - *2021.09*, ABU ROBOCON, ABU Robocon Award. 
 - *2021.07*, National Advanced Mapping and Product Information Modeling Innovation Competition, First Prize.
@@ -104,7 +102,7 @@ Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 # 🌟 Honors
 - Outstanding Graduate Student, WHU, *2023*.
 - The First Prize Scholarship, WHU, *2022*.
-- Yu Gang and Song Xiao Special Scholarship (Top 1), WHU, *2020*.
+- Yu Gang and Song Xiao Special Scholarship, WHU, *2020*.
 
 
 # 📖 Educations
