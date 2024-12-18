@@ -57,6 +57,20 @@ Haodong Xiang\*, Xinghui Li\*, Kai Cheng\*, Xiansong Lai, **Wanting Zhang**, Zhi
 </div>
 </div>
 
+<!-- THUD++ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/thud++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**THUD++: Large-Scale Dynamic Indoor Scene Dataset and Benchmark for Mobile Robots**
+
+Zeshun Li\*, Fuhao Li\*, **Wanting Zhang**\*, Zijie Zheng, Xueping Liu, Yongjin Liu, Long Zeng<sup>†</sup>
+
+[[**Project**]](https://jackyzengl.github.io/THUD-plus-plus.github.io/)&nbsp;
+[[**Paper**]](https://arxiv.org/pdf/2412.08096)
+
+</div>
+</div>
+
 
 <!-- THUD -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/thud.png' alt="sym" width="100%"></div></div>
