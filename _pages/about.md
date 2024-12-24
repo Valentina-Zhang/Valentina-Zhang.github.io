@@ -131,4 +131,9 @@ Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 
 
 # 🎨 Others
-- Sports: Pingpong🏓, hiking/climbing🧗‍♀️, fitness💪, rowing🚣‍♀️, cycling🚴‍♀️...
+- Sports: pingpong🏓, hiking/climbing🧗‍♀️, fitness🏋️‍♀️, rowing🚣‍♀️, cycling🚴‍♀️...
+- Work hard, play hard, and live fully! 💪✨
+
+<br>
+<br>
+
