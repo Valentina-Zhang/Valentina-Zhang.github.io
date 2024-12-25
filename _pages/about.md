@@ -122,7 +122,7 @@ Xinghui Li, Yuchen Ji, Xiansong Lai, **Wanting Zhang**, Long Zeng<sup>†</sup>
 
 
 # 📖 Educations
-- *2023.06 - present*, Master, Tsinghua University.
+- *2023.09 - present*, Master, Tsinghua University.
 - *2019.09 - 2023.06*, Undergraduate, Wuhan University.
 
 
